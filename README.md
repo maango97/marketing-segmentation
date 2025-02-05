@@ -4,7 +4,7 @@
 - 기간 : 2024.12 - 2025.01 (5인)
 - [데이터 출처(DACON)](https://dacon.io/competitions/official/236222/data)
 - [최종 PPT]()
-- [태블로 대시보드]()
+- [태블로 대시보드](https://public.tableau.com/app/profile/.30606921/viz/_17373700099870/34?publish=yes)
 
 
 ## 📋분석 개요
