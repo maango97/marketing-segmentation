@@ -3,7 +3,7 @@
 <img src = "https://github.com/maango97/marketing-segmentation/blob/main/%EB%A7%88%EC%BC%80%ED%8C%85_%ED%91%9C%EC%A7%80.png" width="600" height="320"/>
 
 - 주제 : **이커머스 고객 세분화 분석 - 군집 분석과 RFMV를 이용한 초세분화 마케팅 전략**
-- 기간 : 2024.12 - 2025.01 (5인)
+- 기간 : 2024.12 - 2025.01 
 - [데이터 출처(DACON)](https://dacon.io/competitions/official/236222/data)
 - [최종 PPT](https://github.com/maango97/marketing-segmentation/blob/main/%EC%B5%9C%EC%A2%85_ppt.pdf)
 - [태블로 대시보드](https://public.tableau.com/app/profile/.30606921/viz/_17373700099870/34?publish=yes)
